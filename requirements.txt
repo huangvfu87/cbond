@@ -1,4 +1,4 @@
-plotly==5.17.0
+plotly
 numpy==1.27.0
 kaleido==0.4.1
 pandas==2.2.1
